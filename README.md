@@ -1,4 +1,6 @@
-WEB Links to Power BI Reports
+WEB Links to Power BI Reports ->
+
+PRESS F11 TO SEE REPORTS IN FULL SCREEN 
 
 
 1] Personal Finance Dashboard : https://app.powerbi.com/reportEmbed?reportId=7d76bd8a-48a7-469b-9af6-4eea2208d257&autoAuth=true&ctid=4676733f-2e4f-4781-9841-2b69915ef609&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLWNlbnRyYWwtYS1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
